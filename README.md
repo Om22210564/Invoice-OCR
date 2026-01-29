@@ -12,7 +12,8 @@ This system enables businesses to digitize invoices, manage records, and visuali
 - Save structured data to CSV files
 - Interactive dashboard
 
-![UI](U1.png)
+
+![UI](UI1.png)
 ![Screenshot](Screenshot%202026-01-29%20194309.png)
-![Screenshot](Screenshot%2026-01-29%194416.png)
+![Screenshot](Screenshot%202026-01-29%20194416.png)
 
